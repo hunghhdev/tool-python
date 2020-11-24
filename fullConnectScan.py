@@ -34,3 +34,6 @@ for worker in range(1, 65535):
 
 q.join()
 
+print("Finish")
+sys.exit()
+
